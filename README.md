@@ -1,0 +1,1 @@
+# 10_Beginner_Friendly_AI_ML_Projects-
