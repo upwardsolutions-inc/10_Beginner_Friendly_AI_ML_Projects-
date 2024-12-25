@@ -1,7 +1,7 @@
 
 # Instructions to Load and Use the Jupyter Notebook
 
-This README provides step-by-step instructions for running the Jupyter Notebook script (`Chapter_1_Student_Grades_Prediction.ipynb`) and using the test data (`student_grades_dataset.csv`).
+This README provides step-by-step instructions for running the Jupyter Notebook script (`Student_Grades_Prediction.ipynb`) and using the test data (`student_grades.csv`).
 
 ## Prerequisites
 - **Python 3.x**: Ensure Python is installed on your system.
